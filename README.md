@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **divya.raval92@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1XWVwLpzXA_itt-0tIN_jaCX1p9LPEcpC/edit](https://docs.google.com/document/d/1XWVwLpzXA_itt-0tIN_jaCX1p9LPEcpC/edit)
+
 
 - ⚡ Fun fact **I Like Pokemon**
 
