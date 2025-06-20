@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Prince</h1>
-<h3 align="center">A aspiring full-stack Engineer</h3>
+<h3 align="center"> full-stack Engineer</h3>
 
 
 - 📫 How to reach me **divya.raval92@gmail.com**
