@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">A aspiring full-stack Engineer</h3>
 
-- 🔭 I’m currently working on [Final project](https://github.com/prince21241/Final-Project)
 
 - 📫 How to reach me **divya.raval92@gmail.com**
 
