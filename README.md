@@ -3,7 +3,7 @@
 <h3 align="center"> full-stack Engineer</h3>
 
 
-- 📫 How to reach me **divya.raval92@gmail.com**
+- 📫 How to reach me princeraval36955@gmail.com
 
 
 
